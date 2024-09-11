@@ -1,0 +1,15 @@
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\bin\Debug\net8.0\ConsultaProduto.exe
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\bin\Debug\net8.0\ConsultaProduto.deps.json
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\bin\Debug\net8.0\ConsultaProduto.runtimeconfig.json
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\bin\Debug\net8.0\ConsultaProduto.dll
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\bin\Debug\net8.0\ConsultaProduto.pdb
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\obj\Debug\net8.0\ConsultaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\obj\Debug\net8.0\ConsultaProduto.AssemblyInfoInputs.cache
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\obj\Debug\net8.0\ConsultaProduto.AssemblyInfo.cs
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\obj\Debug\net8.0\ConsultaProduto.csproj.CoreCompileInputs.cache
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\obj\Debug\net8.0\ConsultaProduto.sourcelink.json
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\obj\Debug\net8.0\ConsultaProduto.dll
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\obj\Debug\net8.0\refint\ConsultaProduto.dll
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\obj\Debug\net8.0\ConsultaProduto.pdb
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\obj\Debug\net8.0\ConsultaProduto.genruntimeconfig.cache
+C:\projeto\Course\ConsultaProduto\ConsultaProduto\ConsultaProduto\obj\Debug\net8.0\ref\ConsultaProduto.dll
